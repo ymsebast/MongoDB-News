@@ -1,0 +1,27 @@
+{
+  "name": "mongodb-news",
+  "version": "1.0.0",
+  "description": "Create a web app that lets users view and leave comments on the latest news. Mongoose and Cheerio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymsebast/MongoDB-News.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ymsebast/MongoDB-News/issues"
+  },
+  "homepage": "https://github.com/ymsebast/MongoDB-News#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "mongojs": "^2.6.0",
+    "mongoose": "^5.4.19"
+  }
+}
